@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AdmobSample
 //
-//  Created by YOSHIDA Hiroshi on 2015/11/09.
+//  Created by pyngit on 2015/11/09.
 //
 //
 
