@@ -24,6 +24,7 @@
 		385ECC671BF06FFB004568B7 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385ECC661BF06FFB004568B7 /* MessageUI.framework */; };
 		385ECC6A1BF07017004568B7 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385ECC681BF07017004568B7 /* StoreKit.framework */; };
 		385ECC6B1BF07017004568B7 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385ECC691BF07017004568B7 /* SystemConfiguration.framework */; };
+		385ECC6D1BF080BB004568B7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 385ECC6C1BF080BB004568B7 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		385ECC661BF06FFB004568B7 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		385ECC681BF07017004568B7 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		385ECC691BF07017004568B7 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		385ECC6C1BF080BB004568B7 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 		385ECC341BF05A45004568B7 = {
 			isa = PBXGroup;
 			children = (
+				385ECC6C1BF080BB004568B7 /* .gitignore */,
 				385ECC681BF07017004568B7 /* StoreKit.framework */,
 				385ECC691BF07017004568B7 /* SystemConfiguration.framework */,
 				385ECC661BF06FFB004568B7 /* MessageUI.framework */,
@@ -168,6 +171,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				385ECC6D1BF080BB004568B7 /* .gitignore in Resources */,
 				385ECC4B1BF05A45004568B7 /* LaunchScreen.storyboard in Resources */,
 				385ECC481BF05A45004568B7 /* Assets.xcassets in Resources */,
 				385ECC461BF05A45004568B7 /* Main.storyboard in Resources */,
